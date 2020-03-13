@@ -7,4 +7,6 @@
 
 ----------------------------------------------------------------------------------
 
-Caso fique dificil esse passo a passo, baixe o registro e de um duplo clique e reinie a máquina.
+Caso preferir, baixe o registro e de um duplo clique em seguida reinicie a máquina, para atualizar as configurações.
+
+Obrigado!
